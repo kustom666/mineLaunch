@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images" lang="fr">
+        <file>bg_top.png</file>
+    </qresource>
+</RCC>
