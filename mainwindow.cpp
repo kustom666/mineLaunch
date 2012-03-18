@@ -15,7 +15,5 @@ MainWindow::~MainWindow()
 
 void MainWindow::setUpApp()
 {
-    QPalette paletteBg;
-    paletteBg.setBrush(ui->widgetBar->backgroundRole(), QBrush(QImage(":/images/bg_top.png")));
-    ui->widgetBar->setPalette(paletteBg);
+
 }
